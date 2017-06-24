@@ -3,7 +3,7 @@
 
 Parameters in the dataset: 
 
-* # - Pokemon Number	
+* " # " - Pokemon Number	
 * NAME	
 * TYPE 1	
 * TYPE 2	
